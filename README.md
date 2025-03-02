@@ -115,6 +115,42 @@ The plan may change dynamically, if the plan is not successful (e.g. the tool fa
 - `<Answer plan=0>The weather in London is 10 degrees Celsius</Answer>`: An answer is a response to the user.
 - `<Widget plan=0 name="map">{"url": "https://www.google.com/maps/place/London"}</Widget>`: A widget is a JSON object, which can be used to display information by a frontend, i.e. the streamlit map widget.
 
+A full interaction migh look as follows:
+
+```
+User:
+    What is the weather in London?
+Assistant: 
+    I will now create a plan to find the weather in London.
+    <Plan id=0>
+        <1>Use tool map_search to get location of London
+        <0>Use tool weather to get the weather for coordinates from map_search
+    </Plan>
+    Let me start by searching for the coordinates of London.
+    <Execute plan=0 step=0>{"execute_tool": "map_search", "params": {"query": "London"}}
+User:
+    The coordinates are 51.5074, -0.1278
+Assistant:
+    I will now get the weather for the coordinates.
+    <Execute plan=0 step=1>{"execute_tool": "weather", "params": {"coordinates": "51.5074, -0.1278"}}
+User:
+    {"weather": "10 degrees Celsius"}
+Assistant:
+    I have found the weather in London.
+    <Answer plan=0>The weather in London is 10 degrees Celsius</Answer>
+    <Widget plan=0 name="map">{"url": "https://www.google.com/maps/place/London"}</Widget>
+User:
+    Where can I stay in London?
+Assistant:
+    I will now create a plan to find hotels in London.
+    <Plan id=1>
+        <0>Use tool hotel to get hotels in London
+    </Plan>
+    Let me start by searching for hotels in London.
+    <Execute plan=1 step=0>{"execute_tool": "hotel", "params": {"city": "London"}}
+...
+```
+
 The LLM might generate tokens outside of these tags.
 These are most likeley thoughts and should not be displayed to the user.
 ## Known issues
