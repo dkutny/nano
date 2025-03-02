@@ -110,7 +110,7 @@ The NanoEngineer is asked to provide specific formats for the messages,
 which can be used to display specific interactions.
 - `<Plan id=0><0>Use tool map_search to...</Plan>`: A plan is a list of steps which the NanoEngineer will execute to answer the user's question.
 The plan may change dynamically, if the plan is not successful (e.g. the tool fails to execute) or if the user asks for a different answer.
-- `<Execute plan=0 step=0>{"execute_tool": "map_search", "params": {"query": "London"}}`: The execute tag is used to indicate that a tool should be executed. The parameters are provided as a JSON object. Plan and step are used to indicate which step of the plan is being executed.
+- `<Execute plan=0 step=0>{"execute_tool": "map_search", "params": {"query": "London"}}</Execute>`: The execute tag is used to indicate that a tool should be executed. The parameters are provided as a JSON object. Plan and step are used to indicate which step of the plan is being executed.
 - `<Ask plan=0 step=0>Please provide a query</Ask>`: An ask is a question to the user.
 - `<Answer plan=0>The weather in London is 10 degrees Celsius</Answer>`: An answer is a response to the user.
 - `<Widget plan=0 name="map">{"url": "https://www.google.com/maps/place/London"}</Widget>`: A widget is a JSON object, which can be used to display information by a frontend, i.e. the streamlit map widget.
@@ -127,12 +127,12 @@ Assistant:
         <0>Use tool weather to get the weather for coordinates from map_search
     </Plan>
     Let me start by searching for the coordinates of London.
-    <Execute plan=0 step=0>{"execute_tool": "map_search", "params": {"query": "London"}}
+    <Execute plan=0 step=0>{"execute_tool": "map_search", "params": {"query": "London"}}</Execute>
 User:
     The coordinates are 51.5074, -0.1278
 Assistant:
     I will now get the weather for the coordinates.
-    <Execute plan=0 step=1>{"execute_tool": "weather", "params": {"coordinates": "51.5074, -0.1278"}}
+    <Execute plan=0 step=1>{"execute_tool": "weather", "params": {"coordinates": "51.5074, -0.1278"}}</Execute>
 User:
     {"weather": "10 degrees Celsius"}
 Assistant:
@@ -147,7 +147,7 @@ Assistant:
         <0>Use tool hotel to get hotels in London
     </Plan>
     Let me start by searching for hotels in London.
-    <Execute plan=1 step=0>{"execute_tool": "hotel", "params": {"city": "London"}}
+    <Execute plan=1 step=0>{"execute_tool": "hotel", "params": {"city": "London"}}</Execute>
 ...
 ```
 
@@ -155,4 +155,5 @@ The LLM might generate tokens outside of these tags.
 These are most likeley thoughts and should not be displayed to the user.
 ## Known issues
 - The `<Answer>` is rendered on second runs, but shouldn't be.
-- New messages make widgets and plansdisappear.
+- New messages make widgets and plans disappear.
+- Parsing should be done by NanoEngineer class, not in streamlit.py.
