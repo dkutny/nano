@@ -118,3 +118,5 @@ The plan may change dynamically, if the plan is not successful (e.g. the tool fa
 The LLM might generate tokens outside of these tags.
 These are most likeley thoughts and should not be displayed to the user.
 ## Known issues
+- The `<Answer>` is rendered on second runs, but shouldn't be.
+- New messages make widgets and plansdisappear.
