@@ -1,0 +1,161 @@
+number_id,city,name,type,stars,description,longitude,latitude
+0,London,The Ritz London,luxury,5,Iconic luxury hotel with elegant rooms and fine dining,-0.144189,51.507432
+1,London,YHA London Central,hostel,2,Modern hostel with shared facilities and social atmosphere,-0.138771,51.518547
+2,London,Premier Inn London City,budget hotel,3,Affordable comfort in the heart of the city,-0.128946,51.512675
+3,London,The Langham,luxury,5,Historic grand hotel with world-class service,-0.142902,51.517732
+4,London,Hilton London Bankside,business,4,Modern business hotel with conference facilities,-0.098516,51.505841
+5,London,K West Hotel & Spa,wellness,4,Contemporary hotel with award-winning spa,-0.217772,51.502889
+6,London,Generator London,hostel,2,Trendy hostel with modern design and social spaces,-0.128891,51.529675
+7,London,Travelodge London City,budget hotel,2,Basic comfortable accommodation at reasonable prices,-0.077829,51.513675
+8,London,The Dorchester,luxury,5,Prestigious hotel overlooking Hyde Park,-0.152998,51.506771
+9,London,Crowne Plaza London City,business,4,Professional atmosphere with business amenities,-0.102647,51.514289
+10,London,The Wellesley,luxury,5,Boutique luxury hotel in Knightsbridge,-0.155761,51.502334
+11,London,St. Christopher's Inn,hostel,2,Lively hostel with attached pub,-0.088438,51.504562
+12,London,Novotel London Bridge,business,4,Contemporary hotel for business travelers,-0.093772,51.505231
+13,London,COMO Metropolitan,wellness,5,Modern wellness hotel with holistic spa,-0.149771,51.503675
+14,London,Ibis London City,budget hotel,3,Reliable budget accommodation in central location,-0.076891,51.515231
+15,London,Claridge's,luxury,5,Art Deco luxury hotel with celebrity appeal,-0.147772,51.512889
+16,London,Clink78,hostel,2,Historic courthouse converted to modern hostel,-0.118891,51.529871
+17,London,The Montcalm,business,5,Upscale business hotel with modern facilities,-0.158829,51.515675
+18,London,Bulgari Hotel London,luxury,5,Ultra-luxury hotel with contemporary design,-0.159998,51.502771
+19,London,The Sanctuary House,wellness,4,Boutique wellness retreat in historic building,-0.133647,51.499289
+20,Munich,Hotel Bayerischer Hof,luxury,5,Historic luxury hotel in city center,11.573581,48.139631
+21,Munich,Euro Youth Hostel,hostel,2,Popular hostel near central station,11.558754,48.141428
+22,Munich,Motel One München-City,budget hotel,3,Modern budget hotel with style,11.566754,48.134428
+23,Munich,Le Méridien Munich,business,4,Elegant business hotel near transport hub,11.561754,48.139428
+24,Munich,Vier Jahreszeiten Kempinski,luxury,5,Traditional luxury with modern amenities,11.578293,48.140474
+25,Munich,A&O München Hauptbahnhof,hostel,2,Large hostel with diverse room options,11.548754,48.141428
+26,Munich,Holiday Inn Express Munich,budget hotel,3,Reliable comfort at reasonable prices,11.544736,48.135796
+27,Munich,Sofitel Munich Bayerpost,business,5,High-end business hotel in historic building,11.558723,48.140074
+28,Munich,Mandarin Oriental Munich,luxury,5,Asian-inspired luxury in baroque building,11.578786,48.137917
+29,Munich,The Charles Hotel,wellness,5,Spa hotel with contemporary elegance,11.566126,48.142391
+30,Munich,Wombat's City Hostel,hostel,2,Modern hostel with rooftop terrace,11.549725,48.137376
+31,Munich,NH München City,business,4,Professional atmosphere in central location,11.563278,48.145333
+32,Munich,Hotel Königshof,luxury,5,Classic luxury with panoramic views,11.567111,48.139889
+33,Munich,Smart Stay Hostel,hostel,2,Budget-friendly with social atmosphere,11.562944,48.129667
+34,Munich,Novotel München City,business,4,Modern business hotel near Isar River,11.583333,48.133333
+35,Munich,Hotel Vier Jahreszeiten,wellness,5,Historic spa hotel with traditional charm,11.579500,48.140500
+36,Munich,Arthotel Munich,budget hotel,3,Artistic flair with affordable rates,11.558556,48.141833
+37,Munich,The Westin Grand Munich,luxury,5,Contemporary luxury in Bogenhausen,11.618667,48.151944
+38,Munich,MEININGER Hotel,hostel,2,Modern hybrid hotel-hostel concept,11.553333,48.138333
+39,Munich,Leonardo Royal Hotel,business,4,Upscale business accommodation,11.544722,48.136272
+40,Berlin,Hotel Adlon Kempinski,luxury,5,Prestigious hotel facing Brandenburg Gate,13.380722,52.515272
+41,Berlin,Generator Berlin Mitte,hostel,2,Design hostel in central location,13.389167,52.527278
+42,Berlin,Park Inn by Radisson,business,4,Towering business hotel with city views,13.416111,52.523611
+43,Berlin,Das Stue,luxury,5,Boutique luxury in former embassy,13.348944,52.507222
+44,Berlin,A&O Berlin Hauptbahnhof,hostel,2,Modern hostel near central station,13.369444,52.528833
+45,Berlin,Motel One Berlin-Alexanderplatz,budget hotel,3,Stylish budget option near TV Tower,13.412444,52.522833
+46,Berlin,Waldorf Astoria Berlin,luxury,5,Modern luxury in City West,13.333389,52.504722
+47,Berlin,Grand Hyatt Berlin,business,5,Sophisticated business hotel at Potsdamer Platz,13.373389,52.509167
+48,Berlin,25hours Hotel Bikini,wellness,4,Quirky wellness hotel with jungle theme,13.337833,52.505556
+49,Berlin,PLUS Berlin,hostel,2,Historic school converted to modern hostel,13.448944,52.505222
+50,Berlin,NH Collection Berlin Mitte,business,4,Contemporary business accommodation,13.387444,52.527833
+51,Berlin,Hotel de Rome,luxury,5,Luxury hotel in former bank building,13.394389,52.512722
+52,Berlin,EastSeven Berlin Hostel,hostel,2,Cozy hostel in Prenzlauer Berg,13.407444,52.532833
+53,Berlin,Vienna House Easy,budget hotel,3,Modern comfort at reasonable rates,13.322389,52.507722
+54,Berlin,The Ritz-Carlton,luxury,5,Opulent luxury at Potsdamer Platz,13.373389,52.509722
+55,Berlin,Crowne Plaza Berlin,business,4,Professional atmosphere in City West,13.327444,52.505833
+56,Berlin,Soho House Berlin,wellness,5,Private members club with luxury spa,13.408389,52.527722
+57,Berlin,Heart of Gold Hostel,hostel,2,Fun atmosphere in central location,13.387444,52.522833
+58,Berlin,Leonardo Hotel Berlin,budget hotel,3,Reliable comfort near Charlottenburg,13.327389,52.512722
+59,Berlin,Hotel Zoo Berlin,luxury,5,Historic luxury hotel on Kurfürstendamm,13.327444,52.503833
+60,Amsterdam,Waldorf Astoria Amsterdam,luxury,5,Canal-side luxury in historic buildings,4.893559,52.365284
+61,Amsterdam,Flying Pig Downtown,hostel,2,Famous party hostel in city center,4.895671,52.377891
+62,Amsterdam,CitizenM Amsterdam,budget hotel,3,Modern pod-style rooms with luxury touches,4.883559,52.359284
+63,Amsterdam,Sofitel Legend The Grand,luxury,5,Historic luxury hotel in old city hall,4.897559,52.372284
+64,Amsterdam,Kimpton De Witt,business,4,Stylish business hotel near Central Station,4.899671,52.379891
+65,Amsterdam,Conservatorium Hotel,wellness,5,Luxury wellness hotel in museum quarter,4.881559,52.358284
+66,Amsterdam,St Christopher's at Winston,hostel,2,Art-focused hostel with live music venue,4.898559,52.373284
+67,Amsterdam,Motel One Amsterdam,budget hotel,3,Design budget hotel near RAI,4.889671,52.338891
+68,Amsterdam,InterContinental Amstel,luxury,5,Grand hotel on the Amstel River,4.908559,52.362284
+69,Amsterdam,NH Collection Doelen,business,4,Historic hotel with modern business facilities,4.896671,52.368891
+70,Amsterdam,W Amsterdam,luxury,5,Contemporary luxury in two historic buildings,4.889559,52.372284
+71,Amsterdam,ClinkNOORD,hostel,2,Modern hostel in Amsterdam North,4.901671,52.384891
+72,Amsterdam,Hotel Casa Amsterdam,budget hotel,3,Student hotel with public facilities,4.918559,52.352284
+73,Amsterdam,Pulitzer Amsterdam,luxury,5,Unique luxury through 25 canal houses,4.884671,52.371891
+74,Amsterdam,Crowne Plaza Amsterdam,business,4,South Amsterdam business district hotel,4.889559,52.338284
+75,Amsterdam,Pestana Amsterdam Riverside,wellness,5,Spa hotel in historic building,4.908671,52.357891
+76,Amsterdam,Generator Amsterdam,hostel,2,Design hostel in former zoological building,4.918559,52.362284
+77,Amsterdam,XO Hotels Park West,budget hotel,3,Modern comfort in Amsterdam West,4.838671,52.391891
+78,Amsterdam,Hotel TwentySeven,luxury,5,Ultra-luxury boutique on Dam Square,4.893559,52.373284
+79,Amsterdam,Renaissance Amsterdam,business,4,Central business hotel with Dutch charm,4.895671,52.379891
+80,Warsaw,Hotel Bristol,luxury,5,Historic luxury hotel near Old Town,21.016667,52.239722
+81,Warsaw,Oki Doki Hostel,hostel,2,Artistic hostel with themed rooms,21.003667,52.235722
+82,Warsaw,Ibis Warszawa Centrum,budget hotel,3,Central location with basic comfort,21.008667,52.229722
+83,Warsaw,InterContinental Warsaw,business,5,Modern high-rise with business facilities,21.016667,52.235722
+84,Warsaw,Raffles Europejski Warsaw,luxury,5,Restored 19th-century luxury hotel,21.018667,52.238722
+85,Warsaw,Dream Hostel Warsaw,hostel,2,Modern hostel with social atmosphere,21.003667,52.232722
+86,Warsaw,Hampton by Hilton,budget hotel,3,Reliable comfort near business district,21.008667,52.226722
+87,Warsaw,Sofitel Victoria Warsaw,business,4,Elegant business hotel facing Saxon Garden,21.016667,52.241722
+88,Warsaw,H15 Boutique Hotel,luxury,5,Luxury boutique in historic building,21.018667,52.235722
+89,Warsaw,Hotel Warszawa,wellness,5,Art Deco hotel with modern spa,21.013667,52.238722
+90,Warsaw,Hostel Centrum,hostel,2,Basic hostel in city center,21.008667,52.232722
+91,Warsaw,Novotel Warszawa Centrum,business,4,Central business hotel with city views,21.013667,52.229722
+92,Warsaw,Mamaison Hotel Le Regina,luxury,5,Boutique luxury in Old Town,21.018667,52.242722
+93,Warsaw,Warsaw Downtown Hostel,hostel,2,Friendly hostel with modern amenities,21.003667,52.238722
+94,Warsaw,Holiday Inn Express,budget hotel,3,Contemporary comfort at good value,21.008667,52.235722
+95,Warsaw,Sheraton Grand Warsaw,business,5,Luxury business hotel in prime location,21.016667,52.232722
+96,Warsaw,Hotel Rialto,wellness,4,Boutique wellness hotel in Art Nouveau building,21.013667,52.235722
+97,Warsaw,Nathan's Villa Hostel,hostel,2,Cozy hostel in historic building,21.008667,52.238722
+98,Warsaw,Polonia Palace Hotel,luxury,4,Historic hotel with modern amenities,21.013667,52.232722
+99,Warsaw,Radisson Collection Warsaw,business,5,Contemporary luxury for business travelers,21.018667,52.229722
+100,Paris,Four Seasons George V,luxury,5,Iconic luxury near Champs-Élysées,2.300000,48.868611
+101,Paris,Generator Paris,hostel,2,Modern hostel in trendy Canal Saint-Martin,2.373667,48.885722
+102,Paris,Ibis Paris Bastille,budget hotel,3,Comfortable stay in historic district,2.368667,48.852722
+103,Paris,Le Bristol Paris,luxury,5,Historic palace hotel with Michelin dining,2.316667,48.872722
+104,Paris,Pullman Paris Centre-Bercy,business,4,Modern business hotel in Bercy district,2.388667,48.835722
+105,Paris,Mandarin Oriental Paris,wellness,5,Luxury spa hotel on rue Saint-Honoré,2.328667,48.868722
+106,Paris,St Christopher's Inn Canal,hostel,2,Waterfront hostel with modern facilities,2.363667,48.885722
+107,Paris,CitizenM Paris Gare de Lyon,budget hotel,3,Contemporary style on a budget,2.378667,48.845722
+108,Paris,The Peninsula Paris,luxury,5,Restored palace hotel near Arc de Triomphe,2.296667,48.872722
+109,Paris,Hyatt Regency Paris Étoile,business,4,High-rise with panoramic city views,2.278667,48.878722
+110,Paris,Ritz Paris,luxury,5,Legendary luxury on Place Vendôme,2.328667,48.868722
+111,Paris,MIJE Marais Hostel,hostel,2,Historic buildings in Le Marais,2.358667,48.855722
+112,Paris,Mama Shelter Paris East,budget hotel,3,Philippe Starck-designed urban retreat,2.398667,48.865722
+113,Paris,Le Royal Monceau Raffles,luxury,5,Art-focused luxury near Champs-Élysées,2.298667,48.875722
+114,Paris,Mercure Paris Centre Tour Eiffel,business,4,Modern hotel at foot of Eiffel Tower,2.293667,48.855722
+115,Paris,Shangri-La Hotel Paris,wellness,5,Palace hotel with Asian-inspired spa,2.293667,48.865722
+116,Paris,Les Piaules Hostel,hostel,2,Boutique hostel in Belleville,2.383667,48.872722
+117,Paris,Novotel Paris Centre Bercy,business,4,Contemporary hotel for business travelers,2.388667,48.835722
+118,Paris,Park Hyatt Paris-Vendôme,luxury,5,Contemporary palace near Place Vendôme,2.328667,48.868722
+119,Paris,Le Méridien Etoile,business,4,Largest conference hotel in Paris,2.278667,48.878722
+120,Zurich,Baur au Lac,luxury,5,Lakeside luxury with park views,8.539722,47.366944
+121,Zurich,City Backpacker Hostel,hostel,2,Central hostel in historic building,8.543667,47.378722
+122,Zurich,Motel One Zürich,budget hotel,3,Design budget hotel near main station,8.538667,47.382722
+123,Zurich,Park Hyatt Zurich,business,5,Modern luxury in financial district,8.536667,47.368722
+124,Zurich,The Dolder Grand,wellness,5,Historic spa hotel overlooking city,8.568667,47.372722
+125,Zurich,Langstars Hostel,hostel,2,Modern hostel in trendy Langstrasse,8.528667,47.378722
+126,Zurich,Ibis Zurich City West,budget hotel,3,Affordable comfort in developing district,8.518667,47.385722
+127,Zurich,Renaissance Tower Hotel,business,4,High-rise with panoramic views,8.516667,47.392722
+128,Zurich,Widder Hotel,luxury,5,Boutique luxury in nine historic houses,8.538667,47.372722
+129,Zurich,B2 Boutique Hotel,wellness,4,Spa hotel in former brewery,8.528667,47.362722
+130,Zurich,Youth Hostel Zurich,hostel,2,Modern hostel near lake,8.548667,47.355722
+131,Zurich,25hours Hotel Langstrasse,budget hotel,3,Hip hotel with urban flair,8.528667,47.378722
+132,Zurich,Storchen Zurich,luxury,5,Historic hotel on River Limmat,8.541667,47.372722
+133,Zurich,Marriott Hotel,business,4,Business hotel near main station,8.538667,47.382722
+134,Zurich,La Réserve Eden au Lac,luxury,5,Lakeside boutique with yacht club,8.548667,47.365722
+135,Zurich,Zurich Youth Hostel,hostel,2,Affordable lodging near university,8.548667,47.375722
+136,Zurich,Hotel Montana Zurich,budget hotel,3,Central location with mountain views,8.538667,47.382722
+137,Zurich,Savoy Baur en Ville,luxury,5,Traditional luxury on Paradeplatz,8.539722,47.372944
+138,Zurich,Sheraton Zurich Hotel,business,4,Modern business hotel in West Zurich,8.518667,47.385722
+139,Zurich,Ambassador à l'Opéra,luxury,4,Boutique hotel near opera house,8.546667,47.365722
+140,New York,The Plaza,luxury,5,Iconic luxury hotel on Central Park,-73.974722,40.764722
+141,New York,HI NYC Hostel,hostel,2,Large hostel in historic building,-73.968667,40.798722
+142,New York,Pod 51 Hotel,budget hotel,3,Compact rooms with modern style,-73.968667,40.755722
+143,New York,Lotte New York Palace,luxury,5,Historic mansion turned luxury hotel,-73.976667,40.758722
+144,New York,New York Marriott Marquis,business,4,Times Square business hotel,-73.988667,40.758722
+145,New York,Equinox Hotel Hudson Yards,wellness,5,Luxury wellness hotel in new district,-74.002667,40.752722
+146,New York,Chelsea International Hostel,hostel,2,Budget lodging in Chelsea,-73.998667,40.745722
+147,New York,CitizenM Times Square,budget hotel,3,Modern budget luxury concept,-73.988667,40.762722
+148,New York,St. Regis New York,luxury,5,Historic luxury on Fifth Avenue,-73.976667,40.762722
+149,New York,InterContinental New York,business,5,Business luxury in Times Square,-73.988667,40.758722
+150,New York,Mandarin Oriental New York,luxury,5,Luxury high-rise at Columbus Circle,-73.983667,40.768722
+151,New York,Jazz on Columbus Circle,hostel,2,Music-themed hostel near park,-73.983667,40.768722
+152,New York,Yotel New York,budget hotel,3,Futuristic pod hotel in Hell's Kitchen,-73.998667,40.758722
+153,New York,The Peninsula New York,luxury,5,Fifth Avenue luxury with rooftop bar,-73.976667,40.762722
+154,New York,Grand Hyatt New York,business,4,Grand Central Terminal location,-73.978667,40.752722
+155,New York,Four Seasons New York,wellness,5,I.M. Pei-designed luxury hotel,-73.971667,40.762722
+156,New York,American Dream Hostel,hostel,2,Cozy hostel in Gramercy Park,-73.983667,40.738722
+157,New York,Row NYC,budget hotel,3,Times Square hotel with urban style,-73.988667,40.758722
+158,New York,The Carlyle,luxury,5,Upper East Side art deco luxury,-73.963667,40.772722
+159,New York,W New York - Times Square,business,4,Contemporary luxury in Theater District,-73.988667,40.758722

@@ -1,0 +1,161 @@
+number_id,City,Name,Description,Longitude,Latitude
+0,London,Big Ben,Historic clock tower at the Houses of Parliament,-0.124625,51.500729
+1,London,Tower Bridge,Iconic Victorian bridge over the Thames,-0.075356,51.505456
+2,London,British Museum,World-renowned museum with vast historical collections,-0.127758,51.519413
+3,London,London Eye,Giant observation wheel offering city views,-0.119543,51.503399
+4,London,Buckingham Palace,Official residence of the British monarch,-0.141890,51.501364
+5,London,Westminster Abbey,Gothic church and UNESCO World Heritage site,-0.127799,51.499633
+6,London,St Paul's Cathedral,Anglican cathedral with stunning architecture,-0.098351,51.513870
+7,London,Tower of London,Historic castle and former prison,-0.076254,51.508112
+8,London,Hyde Park,One of London's largest parks,-0.165765,51.505359
+9,London,Trafalgar Square,Famous square with Nelson's Column,-0.128299,51.508039
+10,London,Covent Garden,Popular shopping and entertainment area,-0.122800,51.512711
+11,London,Natural History Museum,Museum showcasing natural wonders,-0.176764,51.496715
+12,London,Tate Modern,Modern art gallery in former power station,-0.099175,51.507595
+13,London,Shakespeare's Globe,Reconstruction of famous Elizabethan theater,-0.097205,51.508056
+14,London,Piccadilly Circus,Major traffic junction and tourist attraction,-0.133869,51.510067
+15,London,Royal Albert Hall,Prestigious concert hall,-0.177366,51.501324
+16,London,London Bridge,Historic bridge and business district,-0.088438,51.507595
+17,London,Kew Gardens,Botanical gardens with diverse plant life,-0.295573,51.478868
+18,London,Camden Market,Vibrant market area with unique shops,-0.142714,51.541147
+19,London,The Shard,Tallest building in Western Europe,-0.086667,51.504444
+20,Munich,Marienplatz,Central square with historic buildings,11.576754,48.137428
+21,Munich,Frauenkirche,Cathedral of Munich with distinctive towers,11.573581,48.138631
+22,Munich,English Garden,Large public park with beer gardens,11.586900,48.164167
+23,Munich,Nymphenburg Palace,Baroque palace with extensive gardens,11.503333,48.158333
+24,Munich,Viktualienmarkt,Gourmet food market and square,11.576293,48.135553
+25,Munich,BMW Museum,Automobile museum showcasing BMW history,11.555723,48.177074
+26,Munich,Allianz Arena,Famous football stadium,11.624736,48.218796
+27,Munich,Deutsches Museum,World's largest science and technology museum,11.583250,48.129833
+28,Munich,Olympiapark,Site of 1972 Olympics with observation tower,11.551667,48.171944
+29,Munich,Residenz,Former royal palace in city center,11.578293,48.140474
+30,Munich,Hofbräuhaus,Historic beer hall and tourist attraction,11.579786,48.137917
+31,Munich,Peterskirche,Munich's oldest church,11.576126,48.136391
+32,Munich,Karlsplatz,Historic city gate and shopping area,11.565725,48.139376
+33,Munich,Pinakothek Museums,Three museums of art and architecture,11.570278,48.148333
+34,Munich,Asam Church,Baroque church with ornate interior,11.571111,48.133889
+35,Munich,Bavaria Statue,Monument overlooking Oktoberfest grounds,11.546944,48.131667
+36,Munich,Königsplatz,Square with classical buildings,11.565556,48.145833
+37,Munich,Theatinerkirche,Yellow-colored baroque church,11.577500,48.142500
+38,Munich,Chinese Tower,Famous beer garden in English Garden,11.591667,48.151944
+39,Munich,Maximilianstrasse,Luxury shopping street,11.583333,48.138333
+40,Berlin,Brandenburg Gate,Iconic 18th-century neoclassical monument,13.377722,52.516272
+41,Berlin,East Side Gallery,Longest remaining section of Berlin Wall,13.439167,52.505278
+42,Berlin,Reichstag Building,Historic parliament building with glass dome,13.376111,52.518611
+43,Berlin,Museum Island,UNESCO World Heritage site with five museums,13.401944,52.517222
+44,Berlin,Checkpoint Charlie,Former Berlin Wall crossing point,13.390278,52.507222
+45,Berlin,Berlin TV Tower,Tallest structure in Germany,13.409444,52.520833
+46,Berlin,Potsdamer Platz,Modern city square and entertainment district,13.376389,52.509722
+47,Berlin,Berlin Cathedral,Largest church in the city,13.401389,52.519167
+48,Berlin,Charlottenburg Palace,Largest palace in Berlin,13.295833,52.520556
+49,Berlin,Gendarmenmarkt,Historic square with concert hall,13.392778,52.513611
+50,Berlin,Holocaust Memorial,Memorial to murdered Jews of Europe,13.378333,52.513611
+51,Berlin,Kaiser Wilhelm Church,Partially ruined church and memorial,13.335278,52.504722
+52,Berlin,Tiergarten,Berlin's largest park,13.350000,52.516667
+53,Berlin,DDR Museum,Interactive museum about East German life,13.402778,52.519444
+54,Berlin,Pergamon Museum,Museum of ancient artifacts,13.396944,52.521389
+55,Berlin,Berlin Zoo,Oldest zoo in Germany,13.337500,52.508611
+56,Berlin,Hackesche Höfe,Art nouveau courtyard complex,13.402500,52.522778
+57,Berlin,Nikolaiviertel,Berlin's oldest residential area,13.407778,52.517222
+58,Berlin,Victory Column,Monument commemorating Prussian victories,13.350278,52.514722
+59,Berlin,Unter den Linden,Historic boulevard in central Berlin,13.383333,52.517222
+60,Amsterdam,Dam Square,Historic central square,4.892222,52.373056
+61,Amsterdam,Anne Frank House,Historic house and museum,4.884167,52.375278
+62,Amsterdam,Rijksmuseum,National museum of arts and history,4.885278,52.360000
+63,Amsterdam,Van Gogh Museum,Museum dedicated to Vincent van Gogh,4.881389,52.358333
+64,Amsterdam,Royal Palace,Official residence of Dutch monarch,4.891389,52.373056
+65,Amsterdam,Vondelpark,Large public park,4.868333,52.358333
+66,Amsterdam,Canal Ring,UNESCO World Heritage canal system,4.882778,52.366667
+67,Amsterdam,Oude Kerk,Amsterdam's oldest building,4.898333,52.374444
+68,Amsterdam,NEMO Science Museum,Science center in ship-shaped building,4.912222,52.374167
+69,Amsterdam,Artis Zoo,Oldest zoo in the Netherlands,4.915833,52.366111
+70,Amsterdam,Heineken Experience,Historic brewery and museum,4.891667,52.357778
+71,Amsterdam,Amsterdam Museum,City history museum,4.889722,52.370000
+72,Amsterdam,Rembrandt House,Historic house and art museum,4.901389,52.369444
+73,Amsterdam,Flower Market,Floating flower market,4.892500,52.366944
+74,Amsterdam,Jordaan,Historic neighborhood with cafes,4.883333,52.373889
+75,Amsterdam,Maritime Museum,Naval history museum,4.915278,52.371944
+76,Amsterdam,Royal Concert Hall,Premier concert venue,4.883611,52.356389
+77,Amsterdam,Amsterdam Dungeon,Historical horror attraction,4.896389,52.371667
+78,Amsterdam,Madame Tussauds,Wax museum,4.892778,52.372500
+79,Amsterdam,EYE Film Museum,National museum for cinema,4.901111,52.384167
+80,Warsaw,Royal Castle,Historic castle and museum,21.012500,52.247778
+81,Warsaw,Old Town Market Place,Historic central marketplace,21.012222,52.249444
+82,Warsaw,Palace of Culture and Science,Landmark high-rise building,21.006111,52.231944
+83,Warsaw,Wilanów Palace,Baroque royal palace,21.090556,52.165833
+84,Warsaw,Łazienki Park,Largest park in Warsaw,21.035278,52.215278
+85,Warsaw,POLIN Museum,Museum of Polish Jewish history,20.993333,52.249722
+86,Warsaw,Warsaw Uprising Museum,World War II history museum,20.981944,52.232222
+87,Warsaw,Copernicus Science Centre,Interactive science museum,21.028889,52.237222
+88,Warsaw,St. John's Cathedral,Gothic cathedral,21.013889,52.248889
+89,Warsaw,Multimedia Fountain Park,Park with fountain shows,21.015278,52.253889
+90,Warsaw,National Museum,Art and cultural history museum,21.024167,52.232222
+91,Warsaw,Nowy Świat Street,Historic shopping street,21.020278,52.237500
+92,Warsaw,Saxon Garden,Oldest public park in Warsaw,21.009722,52.240833
+93,Warsaw,Warsaw Zoo,City zoo with diverse species,21.037778,52.254722
+94,Warsaw,Presidential Palace,Official residence of Polish president,21.016667,52.243333
+95,Warsaw,University of Warsaw,Historic university campus,21.016111,52.239444
+96,Warsaw,Grand Theatre,Opera house and theatre,21.009722,52.243889
+97,Warsaw,Holy Cross Church,Baroque church,21.018889,52.238333
+98,Warsaw,Krakowskie Przedmieście,Historic street,21.015833,52.246111
+99,Warsaw,Zachęta Gallery,National art gallery,21.011944,52.239722
+100,Paris,Eiffel Tower,Iconic iron lattice tower,2.294481,48.858370
+101,Paris,Louvre Museum,World's largest art museum,2.338629,48.860294
+102,Paris,Notre-Dame Cathedral,Medieval Catholic cathedral,2.349902,48.852968
+103,Paris,Arc de Triomphe,Historic monument,2.295027,48.873792
+104,Paris,Sacré-Cœur,White basilica on Montmartre hill,2.343075,48.886705
+105,Paris,Champs-Élysées,Famous avenue for shopping,2.308628,48.866867
+106,Paris,Palace of Versailles,Royal château and gardens,2.120355,48.804722
+107,Paris,Musée d'Orsay,Art museum in former railway station,2.326508,48.859972
+108,Paris,Centre Pompidou,Modern art museum,2.352245,48.860642
+109,Paris,Place de la Concorde,Largest square in Paris,2.321582,48.865633
+110,Paris,Luxembourg Gardens,Public park with palace,2.337644,48.846615
+111,Paris,Panthéon,Historic mausoleum,2.346111,48.846389
+112,Paris,Sainte-Chapelle,Gothic chapel with stained glass,2.345000,48.855556
+113,Paris,Les Invalides,Military history museum,2.313056,48.856944
+114,Paris,Palais Garnier,Historic opera house,2.331667,48.871944
+115,Paris,Place des Vosges,Oldest planned square in Paris,2.366667,48.855556
+116,Paris,Moulin Rouge,Historic cabaret,2.332222,48.884167
+117,Paris,Tuileries Garden,Public garden,2.327778,48.863889
+118,Paris,Grand Palais,Historic exhibition hall,2.313889,48.866111
+119,Paris,Pont Alexandre III,Ornate bridge over Seine,2.313889,48.863889
+120,Zurich,Grossmünster,Romanesque-style Protestant church,8.544167,47.370278
+121,Zurich,Lake Zurich,Scenic lake with promenade,8.541111,47.366667
+122,Zurich,Old Town,Historic city center,8.544444,47.371944
+123,Zurich,Bahnhofstrasse,Luxury shopping street,8.539167,47.366944
+124,Zurich,Swiss National Museum,History museum,8.539722,47.379167
+125,Zurich,Kunsthaus,Art museum,8.548611,47.370278
+126,Zurich,Uetliberg,Mountain with panoramic views,8.490833,47.350833
+127,Zurich,Zoo Zürich,Large zoo with diverse species,8.575000,47.384722
+128,Zurich,Fraumünster,Church with Chagall windows,8.541667,47.369722
+129,Zurich,Lindenhof,Historic square with city views,8.541944,47.371667
+130,Zurich,Opera House,Historic opera venue,8.546667,47.365833
+131,Zurich,FIFA World Football Museum,Soccer history museum,8.531944,47.361944
+132,Zurich,Chinese Garden,Traditional Chinese garden,8.553889,47.357222
+133,Zurich,Rietberg Museum,Asian art museum,8.531944,47.361111
+134,Zurich,St. Peter Church,Oldest parish church,8.541667,47.371111
+135,Zurich,Paradeplatz,Financial district square,8.539444,47.369444
+136,Zurich,ETH Zurich,Famous technical university,8.548056,47.376389
+137,Zurich,Zurich West,Trendy cultural district,8.516667,47.383333
+138,Zurich,Lake Promenade,Waterfront walking path,8.545833,47.366111
+139,Zurich,Botanical Garden,University botanical garden,8.557778,47.358889
+140,New York,Statue of Liberty,Iconic symbol of freedom,-74.044444,40.689167
+141,New York,Times Square,Famous commercial intersection,-73.985278,40.758889
+142,New York,Central Park,Urban park in Manhattan,-73.965556,40.782222
+143,New York,Empire State Building,Art deco skyscraper,-73.984722,40.748333
+144,New York,Metropolitan Museum of Art,Largest art museum in US,-73.963333,40.779167
+145,New York,Brooklyn Bridge,Historic bridge,-73.996944,40.706389
+146,New York,9/11 Memorial,Twin reflecting pools,-74.012222,40.711667
+147,New York,Broadway,Theater district,-73.987778,40.758889
+148,New York,Rockefeller Center,Art deco complex,-73.978889,40.758889
+149,New York,Fifth Avenue,Premier shopping street,-73.974722,40.761667
+150,New York,High Line,Elevated park,-74.004722,40.747778
+151,New York,Grand Central Terminal,Historic train terminal,-73.977222,40.752778
+152,New York,St. Patrick's Cathedral,Neo-Gothic church,-73.976111,40.758611
+153,New York,Museum of Modern Art,Modern art museum,-73.977222,40.761667
+154,New York,Wall Street,Financial district,-74.010833,40.706944
+155,New York,Coney Island,Amusement area,-73.977778,40.575556
+156,New York,American Museum of Natural History,Science museum,-73.974722,40.781111
+157,New York,One World Trade Center,Tallest building in US,-74.013333,40.712778
+158,New York,Radio City Music Hall,Entertainment venue,-73.979722,40.759722
+159,New York,Chrysler Building,Art deco skyscraper,-73.975278,40.751667
